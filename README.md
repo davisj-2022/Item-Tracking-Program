@@ -1,5 +1,11 @@
 # Item-Tracking-Program
 Project 3
+<br>
+C++ main program that calls Python functions<br>
+Import file from Python & C++<br>
+Write to a file from Python <br>
+Print from Python <br>
+Print from C++ using Python function return <br>
 
 
 
